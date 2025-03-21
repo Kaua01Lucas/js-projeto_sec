@@ -23,3 +23,5 @@ function verificarChute() {
     console.log('Apertou o botão');
 }
 
+
+
